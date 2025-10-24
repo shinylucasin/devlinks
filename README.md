@@ -1,8 +1,8 @@
 # DevLinks
 
-Um agregador de links no estilo Linktree, funcionando como minha vitrine digital.
+Este é um projeto de aprendizado para praticar fundamentos de HTML, CSS e JavaScript. É um agregador de links no estilo Linktree, funcionando como minha vitrine digital.
 
-O projeto foi desenvolvido com foco em demonstrar habilidades básicas em manipulação de DOM e variáveis CSS, permitindo a troca entre **Light Mode** e **Dark Mode**.
+O foco do desenvolvimento foi em demonstrar habilidades básicas em manipulação de DOM e variáveis CSS, implementando a funcionalidade de troca entre **Light Mode** e **Dark Mode**.
 
 ## 🛠️ Tecnologias
 
@@ -12,8 +12,8 @@ O projeto foi desenvolvido com foco em demonstrar habilidades básicas em manipu
 
 ## 💡 Como Usar
 
-1.  Clone este repositório.
-2.  Abra o arquivo `index.html` em qualquer navegador.
+1. Clone este repositório.
+2. Abra o arquivo `index.html` em qualquer navegador.
 
 ---
 
@@ -22,4 +22,5 @@ O projeto foi desenvolvido com foco em demonstrar habilidades básicas em manipu
 Este projeto está sob a licença [MIT](https://opensource.org/licenses/MIT).
 
 ---
+
 <p align="center">Feito por Lucas Miguel (shinylucasin), baseado em aulas da Rocketseat.</p>
